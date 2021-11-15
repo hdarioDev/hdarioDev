@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Darío
 
-<!--
-**hdarioDev/hdarioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Darío's Linkedin hdarioDev | Twitter hdarioDev |  Email dario.humerez.dev@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javcho's photo
+I'm a full stack developer 🚀 from Bolivia. 
+
+✨ Quick Facts
+
+👨🏽‍💻 I’m currently working on @Exxis-Group SRL (Angular+Ionic+Frontend)
+🌱 I’m currently learning Javascript in depth
+🎿 Hobbies other than coding : Play guitarra , read books, Thinking about writing stories or blog 🤔🤖..
+📫 How to reach me: dario.humerez.dev@gmail.com
+📝 Resume (old)
+♥ Follow me on GitHub followers and Twitter Badge and be a part of my journey... and See if I can make it or not!
+🛠️ Languages and Tools:
+
+JavaScript Reactjs Node.js Angular Ionic React Native  PHP Laravel Firebase Git GitHub

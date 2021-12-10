@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/ZeConds-102367591544400/](https://www.facebook.com/ZeConds-102367591544400/)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript** **android**
 
 - 📫 How to reach me **dario.humerez.dev@gmail.com**
 

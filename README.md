@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdariodev&label=Profile%20views&color=0e75b6&style=flat" alt="hdariodev" /> </p>
 
-- 🔭 I’m currently working on **Exxis-group SRL**
+- 🔭 I’m currently working on **Exxis-group SA**
 
 - 🌱 I’m currently learning **Native Mobile**
 

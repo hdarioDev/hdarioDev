@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Exxis-group SA** business one intelligence
 
-- 🌱 I’m currently learning **Native Mobile**
+- 🌱 I’m currently learning **Next JS, Mobile with React Native**
 
 - 👯 I’m looking to collaborate on **Mobile SAp**
 

@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Exxis-group SA** business one intelligence
 
-- 🌱 I’m currently learning **Next JS, Mobile with React Native**
+- 🌱 I’m currently learning **Kotlin and Python**
 
-- 👯 I’m looking to collaborate on **Mobile SAp**
+- 👯 I’m looking to collaborate on **Innovative projects**
 
 - 👨‍💻 All of my projects are available at [https://hdariodev.com/](https://hdariodev.com/)
 

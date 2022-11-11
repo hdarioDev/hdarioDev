@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdariodev&label=Profile%20views&color=0e75b6&style=flat" alt="hdariodev" /> </p>
 
-- 🔭 I’m currently working on **Exxis-group SA** business one intelligence
+- 🔭 I’m currently working at **AgendaPro** 
 
-- 🌱 I’m currently learning **Kotlin and Python**
+- 🌱 I’m currently learning **Kotlin and Swift**
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
 - 👨‍💻 All of my projects are available at [https://hdariodev.com/](https://hdariodev.com/)
 
-- 💬 Ask me about **Javascript** **android**
+- 💬 Ask me about **Javascript** **android** **iOS**
 
 - 📫 How to reach me **dario.humerez.dev@gmail.com**
 

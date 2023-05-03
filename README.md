@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hdariodev&label=Profile%20views&color=0e75b6&style=flat" alt="hdariodev" /> </p>
 
-- 🔭 I’m currently working at **AgendaPro** 
+<!-- - 🔭 I’m currently working at **AgendaPro**  -->
 
 - 🌱 I’m currently learning **Kotlin and Swift**
 

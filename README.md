@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hdariodev.com/](https://hdariodev.com/)
 
-- 💬 Ask me about **Javascript** **android** **iOS**
+- 💬 Ask me about **React Native** **android** **iOS**
 
 - 📫 How to reach me **dario.humerez.dev@gmail.com**
 
